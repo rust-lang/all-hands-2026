@@ -5,7 +5,7 @@
 
 > [!IMPORTANT]
 > The Rust All-Hands is a *private event* for Rust team members and invited guests only.
-> You are only invited if and only if you are a member of #rust-all-hands-2026-private on the Rust Zulip,
+> You are invited if and only if you are a member of #rust-all-hands-2026-private on the Rust Zulip
 > or if you received explicit confirmation of your invitation by email from Mara.
 
 ## When and where
