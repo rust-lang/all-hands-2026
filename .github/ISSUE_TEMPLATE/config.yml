@@ -1,0 +1,5 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Idea or suggestion
+    url: https://rust-lang.zulipchat.com/#narrow/channel/532959-all-hands-2026/topic/Ideas.20and.20suggestions/with/583377129
+    about: Please discuss ideas and suggestions on Zulip.
