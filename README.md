@@ -37,8 +37,6 @@ For other options to get there, see: https://2026.rustweek.org/dus/
 At the same venue, in the other wing of the same building, there will be a parallel event: an unconference for Rust ecosystem maintainers.
 This unconference will include rooms for Bevy, the embedded working group, Linebender, GPU programming, ArielOS, and the Safety-Critical Rust Consortium.
 
-This provides a great opportunity for collaboration. Feel free to invite potential users to your discussions about Rust features.
-
 ## Covid policy
 
 Please review our [covid policy](https://2026.rustweek.org/covid-policy-all-hands-and-unconf/) for the unconf.
