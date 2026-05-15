@@ -12,7 +12,7 @@
 
 See [all-hands-schedule.pdf](https://raw.githubusercontent.com/rust-lang/all-hands-2026/main/all-hands-schedule.pdf) in this repository!
 
-<a href="https://raw.githubusercontent.com/rust-lang/all-hands-2026/main/all-hands-schedule.pdf"><img width="888" height="211" alt="Thumbnail" src="https://github.com/user-attachments/assets/44b4e918-a00a-40b6-bb69-8989d52609ce" /></a>
+<img width="888" height="161" alt="image" src="https://github.com/user-attachments/assets/28a1b0f9-a36d-489e-a355-a312fdd13c40" />
 
 ## When and Where
 
