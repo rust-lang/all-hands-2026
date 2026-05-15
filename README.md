@@ -14,13 +14,19 @@ See [all-hands-schedule.pdf](https://raw.githubusercontent.com/rust-lang/all-han
 
 <a href="https://raw.githubusercontent.com/rust-lang/all-hands-2026/main/all-hands-schedule.pdf"><img width="888" height="211" alt="Thumbnail" src="https://github.com/user-attachments/assets/44b4e918-a00a-40b6-bb69-8989d52609ce" /></a>
 
-## When and where
+## When and Where
 
 For the full schedule of RustWeek 2026, see the [RustWeek 2026 website](https://2026.rustweek.org/#week-schedule).
 
 The All-Hands takes place on: **Thursday 21 May, Friday 22 May, and Saturday 23 May**.
 
 The All-Hands will be held at the same venue as last year: [DUS, Sophialaan 1, Utrecht, Netherlands](https://2026.rustweek.org/dus/).
+
+## Transport
+
+While we highly recommend biking to the venue, we have also arranged buses to take you to DUS. See https://rustweek.org/bus/ for the bus schedule.
+
+For other options to get there, see: https://2026.rustweek.org/dus/
 
 ## Floorplan
 
