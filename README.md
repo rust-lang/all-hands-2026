@@ -14,7 +14,6 @@ See [all-hands-schedule.pdf](https://raw.githubusercontent.com/rust-lang/all-han
 
 <a href="https://raw.githubusercontent.com/rust-lang/all-hands-2026/main/all-hands-schedule.pdf"><img width="888" height="211" alt="Thumbnail" src="https://github.com/user-attachments/assets/44b4e918-a00a-40b6-bb69-8989d52609ce" /></a>
 
-
 ## When and where
 
 For the full schedule of RustWeek 2026, see the [RustWeek 2026 website](https://2026.rustweek.org/#week-schedule).
@@ -22,6 +21,23 @@ For the full schedule of RustWeek 2026, see the [RustWeek 2026 website](https://
 The All-Hands takes place on: **Thursday 21 May, Friday 22 May, and Saturday 23 May**.
 
 The All-Hands will be held at the same venue as last year: [DUS, Sophialaan 1, Utrecht, Netherlands](https://2026.rustweek.org/dus/).
+
+## Floorplan
+
+<a href="https://2026.rustweek.org/images/venues/dus-floorplan.pdf"><img width="888" height="432" alt="Floorplan" src="https://github.com/user-attachments/assets/692ecd6d-8965-4920-899c-f03140434611" /></a>
+
+## Co-located Unconference
+
+At the same venue, in the other wing of the same building, there will be a parallel event: an unconference for Rust ecosystem maintainers.
+This unconference will include rooms for Bevy, the embedded working group, Linebender, GPU programming, ArielOS, and the Safety-Critical Rust Consortium.
+
+This provides a great opportunity for collaboration. Feel free to invite potential users to your discussions about Rust features.
+
+## Covid policy
+
+Please review our [covid policy](https://2026.rustweek.org/covid-policy-all-hands-and-unconf/) for the unconf.
+
+TL;DR: Test yourself in the mornings before coming to the All Hands. Free tests are available during all of RustWeek.
 
 ## Zulip
 
@@ -31,10 +47,6 @@ on the Rust Zulip for discussions and detailed info about the All-Hands.
 For hotels, logistics, restaurants, and other information only relevant to
 those attending in person, see
 [#rust-all-hands-2026-private](https://rust-lang.zulipchat.com/#narrow/channel/553368-all-hands-2026-private/topic/Announcements/near/564985911).
-
-## Schedule
-
-To propose a session, please [file an issue](https://github.com/rust-lang/all-hands-2026/issues/new?template=session.md) on this respository.
 
 ## Questions
 
